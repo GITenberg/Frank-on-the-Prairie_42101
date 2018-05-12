@@ -1,0 +1,41 @@
+_repo: Frank-on-the-Prairie_42101
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42101-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Fosdick, Charles Austin
+    - Castlemon, Henry
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: After serving in the American Civil War, Charles Austin Fosdick began
+  penning a series of adventure novels for boys under the nom de plume Harry Castlemon.
+  While the early novels drew heavily on his own battlefield experiences, later entries
+  in the series put plucky protagonist Frank in a number of different settings and
+  action-packed plots. This volume of the Gunboat Series pits Frank against a number
+  of foes, ranging from ravenous grizzly bears to unscrupulous frontiersmen.
+gutenberg_issued: '2013-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trappers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Hunters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Survival skills -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Frank on the Prairie
+url: http://www.gutenberg.org/ebooks/42101
